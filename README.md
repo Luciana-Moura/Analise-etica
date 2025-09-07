@@ -15,4 +15,8 @@ O relatório examina:
 
 O relatório está disponível no arquivo PDF abaixo:  
 
-[Análise Ética - Sistema de Recrutamento Amazon (PDF)](https://github.com/Luciana-Moura/Analise-etica/blob/m)
+[Análise Ética - Sistema de Recrutamento Amazon (PDF)](https://github.com/Luciana-Moura/Analise-etica/blob/main/An%C3%A1lise%20%C3%89tica.pdf)
+
+## Uso
+
+Este material é destinado a profissionais, estudantes e interessados em ética, tecnologia e direitos humanos, para promover debates e melhores práticas no desenvolvimento de sistemas de inteligência artificial.
